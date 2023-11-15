@@ -1,3 +1,2 @@
 # control_repo
-Hi
-Hello
+I am redhat
